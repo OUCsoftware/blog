@@ -87,8 +87,9 @@
 
 2. 对于卷积核的理解：
 
-
-    我认为，老师提供的课件中的
+```
+我认为，老师提供的课件中的
+```
 
    ![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/01.png) 
 
@@ -108,7 +109,33 @@
 
    这样才能得到正确的图像锐化，浮雕和边缘检测。
 
+#### 实验结果展示：
 
+均值模糊：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/04.png) 
+
+运功模糊：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/05.png) 
+
+边缘检测：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/06.png) 
+
+图像锐化：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/07.png) 
+
+浮雕：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/08.png) 
+
+高斯模糊：
+
+![img](https://github.com/Histra/FourthDemo/blob/master/FourthDemo/Pictures_ExperimentReport/09.png) 
+
+  
 
 #### 实验反思总结：
 
